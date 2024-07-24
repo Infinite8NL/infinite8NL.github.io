@@ -18,6 +18,11 @@ body {
 .contact {
   margin-bottom: 40px;
 }
+
+.logo {
+  height: 122px;
+}
+
 form {
 	flex-direction: row;
 	align-items: center;
