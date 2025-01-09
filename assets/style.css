@@ -24,6 +24,15 @@ body {
   margin-left: -8px;
 }
 
+.logo img,
+.logo a {
+  height: 100%;
+}
+
+.logo a {
+  display: inline-block;
+}
+
 form {
 	flex-direction: row;
 	align-items: center;
